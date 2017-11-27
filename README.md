@@ -1,6 +1,6 @@
 # Hello-Blockstack-React.js-boilerplate-w-materialUI
 
-This project is based on the [MERN-Boilerplate](https://github.com/keithweaver/MERN-boilerplate). It should help you get started with [Blockstack](https://blockstack.org/) as it shows how to integrate identity directly into your project. It is setup so that you can easily deploy to Heroku.
+This project is based on the [MERN-Boilerplate](https://github.com/keithweaver/MERN-boilerplate) and inspired from [Keith Weaver](https://github.com/keithweaver). It should help you get started with [Blockstack](https://blockstack.org/) as it shows how to integrate identity directly into your project. It is setup so that you can easily deploy to Heroku.
 
 
 ## Install Node Modules
